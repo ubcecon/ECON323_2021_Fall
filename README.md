@@ -16,8 +16,8 @@ You will not need to install any software on your local computer.  Instead:
 If possible, please bring a laptop to class to interactively discuss the material.
 
 ## Teaching Assistant
-- Daniel Jaramillo Calderon
-- Office Hours: Thursdays 11am - 12pm
+- Pablo Valenzuela
+<!-- - Office Hours: Thursdays 11am - 12pm -->
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
@@ -32,8 +32,8 @@ Grading: Weekly problem sets: 50%; Final projects: 45%; Attendance/Participation
 
 The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/projects.html)
 
-## Lecture and Problem Set Schedule (by Section)
-<!-- - [Section 1 (Peifan Wu)](schedule_1.md) Office Hour: 2-4 pm Tuesdays @ Iona 055 -->
-- [Schedule](schedule.md) Office Hours: (Mondays 3-4pm)
+## Lecture and Problem Set Schedule
+- [Schedule](schedule.md)
+- Office Hours: (Mondays 3-4pm)
 
 All problem sets are to be sent as clean, *executed* `.ipynb` notebooks on Canvas.
