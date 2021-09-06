@@ -15,8 +15,8 @@ You will not need to install any software on your local computer.  Instead:
 
 If possible, please bring a laptop to class to interactively discuss the material.
 
-## Teaching Assistant
-- Pablo Valenzuela
+<!-- ## Teaching Assistant -->
+<!-- - Pablo Valenzuela -->
 <!-- - Office Hours: Thursdays 11am - 12pm -->
 
 ## Syllabus
