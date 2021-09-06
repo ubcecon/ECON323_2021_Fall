@@ -2,7 +2,7 @@
 ## Quantitative Economic Modeling with Data Science Applications
 
 - **Instructor:**
-  - Section 3: schrimpf@mail.ubc.ca
+  - Section 3: Paul Schrimpf, schrimpf@mail.ubc.ca
 - **Textbook:** [QuantEcon DataScience](https://datascience.quantecon.org/)
 
 
@@ -12,15 +12,21 @@ This is a course introducing the computational and data science tools used in mo
 We will apply a programming language (Python) to analyzing these sorts of
 data and making numerical calculations/simulations of models in economics.
 
-The class will focus on practical experience with economics-focused tools and is not
-intended as a replacement for Computer Science or Statistics courses.
+Class will be held in-person in [EOS
+135](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=EOS&roomID=135)
+on Mondays and Wednesdays 1:30pm-2:50pm. For students who cannot
+attend in person, classes will also be available on zoom, through
+http://canvas.ubc.ca
 
-Class will be held online, using Collaborate Ultra through Canvas.
+Provincial Health Orders and UBC policy now mandate masks in all
+indoor public spaces on campus. These spaces include classrooms,
+residence halls, libraries, and common areas.
 
 ## Course Materials and Communications
+
 All materials will be provided online:
-- Class Materials: https://github.com/ubcecon/ECON323_2020_Fall
-- Communications, Announcements, and Grades: http://canvas.ubc.ca
+- Class Materials: https://github.com/ubcecon/ECON323_2021_Fall
+- Communications, Announcements, Grades, Zoom, Piazza: http://canvas.ubc.ca
 
 ## Grading
 
