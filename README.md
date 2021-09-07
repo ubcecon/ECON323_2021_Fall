@@ -1,4 +1,4 @@
-# Course materials for ECON323 Fall 2020
+# Course materials for ECON323 Fall 2021
 
 Previous **programming experience** and classwork is useful, but **not required**.  But even if you know how to program, you will learn a great deal of interesting applications.
 
@@ -32,8 +32,9 @@ Grading: Weekly problem sets: 50%; Final projects: 45%; Attendance/Participation
 
 The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/projects.html)
 
-## Lecture and Problem Set Schedule
-- [Schedule](schedule.md)
+## Lecture and Problem Set Schedul
+- [Schedule for Section 1 (Peifan Wu)](schedule1.md)
+- [Schedule for Section 3 (Paul Schrimpf)](schedule3.md)
 - Office Hours: (Mondays 3-4pm)
 
 All problem sets are to be sent as clean, *executed* `.ipynb` notebooks on Canvas.

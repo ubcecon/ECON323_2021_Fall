@@ -2,6 +2,7 @@
 ## Quantitative Economic Modeling with Data Science Applications
 
 - **Instructor:**
+  - Section 1: Peifan Wu, wupeifan@mail.ubc.ca
   - Section 3: Paul Schrimpf, schrimpf@mail.ubc.ca
 - **Textbook:** [QuantEcon DataScience](https://datascience.quantecon.org/)
 
