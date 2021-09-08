@@ -29,7 +29,9 @@ This will be updated throughout the course.
 25. **December 6** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 
 ## Problem Sets
-1. Due **September 15** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb through Canvas)
+**Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets), not the ones from quantecon.org! Do not do the quantecon.org problem sets that appear in lecture-datascience.notebooks/problem_sets!.
+
+1. Due **September 15** - [Problem Set 1](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_1.ipynb)
 <!-- 2. Due **September 23rd** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html) -->
 <!-- 3. Due **October 1st** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html)  -->
 <!-- 4. Due **October 8th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6  -->
