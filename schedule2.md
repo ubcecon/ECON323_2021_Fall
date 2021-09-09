@@ -1,9 +1,9 @@
-This will be updated throughout the course.
+This is a tentative schedule and will be updated as the course progresses.
 
 ## Lectures and Notebooks
 1. **September 9** -  Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
 2. **September 14** - Finish [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
-3. **September 16** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
+3. **September 16** - Lab session on PS 1, Jupyter, Syzygy, etc.  [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
 4. **September 21** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
 5. **September 23** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 6. **September 28** - [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
@@ -19,17 +19,17 @@ This will be updated throughout the course.
 16. **November 2** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 17. **November 4** - [Regression](https://datascience.quantecon.org/applications/regression.html)
 18. **November 9** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-18. **November 11** - Midterm Break
-19. **November 16** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
-20. **November 18** - [Classification](https://datascience.quantecon.org/applications/classification.html)
-21. **November 23** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
-22. **November 25** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
-23. **November 30** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
-24. **December 2** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-25. **December 7** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+19. **November 11** - Midterm Break
+20. **November 16** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
+21. **November 18** - [Classification](https://datascience.quantecon.org/applications/classification.html)
+22. **November 23** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
+23. **November 25** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
+24. **November 30** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+25. **December 2** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
+26. **December 7** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 
 ## Problem Sets
-1. Due **September 15** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb through Canvas)
+1. Due **September 16** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb through Canvas)
 <!-- 2. Due **September 23rd** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html) -->
 <!-- 3. Due **October 1st** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html)  -->
 <!-- 4. Due **October 8th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6  -->
