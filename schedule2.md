@@ -1,32 +1,32 @@
 This will be updated throughout the course.
 
 ## Lectures and Notebooks
-1. **September 8** -  Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
-2. **September 13** - Finish [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
-3. **September 15** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
-4. **September 20** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
-5. **September 22** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
-6. **September 27** - [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
-7. **September 29** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
-8. **October 4** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
-9. **October 6** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
-10. **October 11** - Thanksgiving
+1. **September 9** -  Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
+2. **September 14** - Finish [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
+3. **September 16** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
+4. **September 21** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
+5. **September 23** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
+6. **September 28** - [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+7. **September 30** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+8. **October 5** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
+9. **October 7** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
+10. **October 12** - Thanksgiving
 11. **October 14** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and start [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
 12. **October 19** - Quickly through [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) and  [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
 13. **October 21** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html)
 14. **October 26** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 15. **October 28** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html)
-16. **November 1** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
-17. **November 3** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-18. **November 8** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-18. **November 10** - Midterm Break
-19. **November 14** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
-20. **November 16** - [Classification](https://datascience.quantecon.org/applications/classification.html)
-21. **November 21** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
-22. **November 23** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
-23. **November 29** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
-24. **December 1** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-25. **December 6** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+16. **November 2** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+17. **November 4** - [Regression](https://datascience.quantecon.org/applications/regression.html)
+18. **November 9** - [Regression](https://datascience.quantecon.org/applications/regression.html)
+18. **November 11** - Midterm Break
+19. **November 16** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
+20. **November 18** - [Classification](https://datascience.quantecon.org/applications/classification.html)
+21. **November 23** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
+22. **November 25** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
+23. **November 30** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+24. **December 2** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
+25. **December 7** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 
 ## Problem Sets
 1. Due **September 15** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb through Canvas)
