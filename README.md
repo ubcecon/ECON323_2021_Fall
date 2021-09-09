@@ -22,13 +22,14 @@ If possible, please bring a laptop to class to interactively discuss the materia
 ## Instructor and Teaching Assistant
 Section 2
 - Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
-- Office Hours: Mondays 3pm - 4pm, Iona Building #013
-- Kuo Yan [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
+- Office Hours: Mondays 3pm - 4pm, Iona #013
+- TA: Kuo Yan [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
 - Office Hours: TBD
   
 Section 3
 - Paul Schrimpf, [schrimpf@mail.ubc.ca](mailto:schrimpf@mail.ubc.ca)
-- Pablo Valenzuela
+- Office Hours: Mondays 3pm - 4pm, Iona #107
+- TA: Pablo Valenzuela
 <!-- - Office Hours: Thursdays 11am - 12pm -->
 
 ## Syllabus
@@ -44,9 +45,8 @@ Grading: Weekly problem sets: 50%; Final projects: 45%; Attendance/Participation
 
 The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/projects.html)
 
-## Lecture and Problem Set Schedul
+## Lecture and Problem Set Schedule
 - [Schedule for Section 2 (Peifan Wu)](schedule2.md)
 - [Schedule for Section 3 (Paul Schrimpf)](schedule3.md)
-- Office Hours: (Mondays 3-4pm)
 
 All problem sets are to be sent as clean, *executed* `.ipynb` notebooks on Canvas.
