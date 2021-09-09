@@ -23,7 +23,7 @@ If possible, please bring a laptop to class to interactively discuss the materia
 Section 2
 - Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
 - Office Hours: Mondays 3pm - 4pm, Iona Building #013
-- Yan Kuo [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
+- Kuo Yan [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
 - Office Hours: TBD
   
 Section 3
