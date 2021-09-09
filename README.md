@@ -19,6 +19,18 @@ If possible, please bring a laptop to class to interactively discuss the materia
 <!-- - Pablo Valenzuela -->
 <!-- - Office Hours: Thursdays 11am - 12pm -->
 
+## Instructor and Teaching Assistant
+Section 2
+- Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
+- Office Hours: Mondays 3pm - 4pm, Iona Building #013
+- Yan Kuo [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
+- Office Hours: TBD
+  
+Section 3
+- Paul Schrimpf, [schrimpf@mail.ubc.ca](mailto:schrimpf@mail.ubc.ca)
+- Pablo Valenzuela
+<!-- - Office Hours: Thursdays 11am - 12pm -->
+
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
 
