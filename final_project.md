@@ -14,7 +14,7 @@ We will accept a wide-range of proposals on many different topics.  The key requ
 * If you can relate this to an Honours thesis/ECON490/etc. that is great.  But you cannot simply submit your thesis to us.  For example, you could take your thesis and do a nice visualization notebook to go with it.
 * Solo work is recommended while a group of two is also okay. For the latter case, grading policy changes accordingly as we expect more than for a single-person project.
 
-See [previous final projects](https://datascience.quantecon.org/projects.html)
+See [previous final projects](https://datascience.quantecon.org/theme/projects.html)
 
 ## Size of Project and Grading Criteria
 You should target roughly a similar length as the amount of code in one of your later problem sets (e.g. 3-5 "pages" of Jupyter notebooks).  But having a large notebook is not needed if you are doing something interesting, as you will not be graded solely on the quantity of code.
