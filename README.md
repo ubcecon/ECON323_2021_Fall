@@ -17,7 +17,7 @@ If possible, please bring a laptop to class to interactively discuss the materia
 
 ## Instructor and Teaching Assistant
 - Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
-- Office Hours: Mondays 3pm - 4pm, Iona #013
+- Office Hours: Mondays 1pm - 2pm, Iona #013
 - TA for Section 2: Kuo Yan [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
 - Office Hours: TBD
 - TA for Section 3: Josh Catalano [jcatal@student.ubc.ca](mailto:jcatal@student.ubc.ca)
