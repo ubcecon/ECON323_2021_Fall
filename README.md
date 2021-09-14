@@ -15,22 +15,15 @@ You will not need to install any software on your local computer.  Instead:
 
 If possible, please bring a laptop to class to interactively discuss the material.
 
-<!-- ## Teaching Assistant -->
-<!-- - Pablo Valenzuela -->
-<!-- - Office Hours: Thursdays 11am - 12pm -->
-
 ## Instructor and Teaching Assistant
-Section 2
 - Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
 - Office Hours: Mondays 3pm - 4pm, Iona #013
-- TA: Kuo Yan [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
+- TA for Section 2: Kuo Yan [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
 - Office Hours: TBD
+- TA for Section 3: Josh Catalano [jcatal@student.ubc.ca](mailto:jcatal@student.ubc.ca)
+- Office Hours: Mondays 10am - 11am
   
-Section 3
-- Paul Schrimpf, [schrimpf@mail.ubc.ca](mailto:schrimpf@mail.ubc.ca)
-- Office Hours: Mondays 3pm - 4pm, Iona #107
-- TA: Pablo Valenzuela
-<!-- - Office Hours: Thursdays 11am - 12pm -->
+Prof. Paul Schrimpf will resume teaching Section 3 later this semester.
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
