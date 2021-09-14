@@ -40,6 +40,9 @@ The [final project](final_project.md) is open ended. See [previous projects](htt
 
 ## Lecture and Problem Set Schedule
 - [Schedule for Section 2 (Peifan Wu)](schedule2.md)
+- Section 3 will follow the schedule of Section 2 until Paul returns. 
+<!--
 - [Schedule for Section 3 (Paul Schrimpf)](schedule3.md)
+-->
 
 All problem sets are to be sent as clean, *executed* `.ipynb` notebooks on Canvas.
