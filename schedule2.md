@@ -3,13 +3,14 @@ This is a tentative schedule and will be updated as the course progresses.
 ## Lectures and Notebooks
 1. **September 9** -  Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
 2. **September 14** - Finish [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
-3. **September 16** - Lab session on PS 1, Jupyter, Syzygy, etc.  [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
+3. **September 16** - Finish [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html). Lab session on PS 1, Jupyter, Syzygy, etc. [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) if time permitted
+<!--
 4. **September 21** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
 5. **September 23** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 6. **September 28** - [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 7. **September 30** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **October 5** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
-9. **October 7** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
+9.  **October 7** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 10. **October 12** - Thanksgiving
 11. **October 14** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and start [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
 12. **October 19** - Quickly through [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) and  [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
@@ -27,6 +28,7 @@ This is a tentative schedule and will be updated as the course progresses.
 24. **November 30** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 25. **December 2** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
 26. **December 7** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+-->
 
 ## Problem Sets
 1. Due **September 17th** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb through Canvas)
