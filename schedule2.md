@@ -4,9 +4,8 @@ This is a tentative schedule and will be updated as the course progresses.
 0. **September 7th** - Imagine day, no class 
 1. **September 9th** -  Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
 2. **September 14th** - Finish [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
-3. **September 16th** - Finish [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html). Lab session on PS 1, Jupyter, Syzygy, etc. [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) if time permitted
-<!--
-4. **September 21** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
+3. **September 16th** - Finish [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html). Lab session on PS 1, Jupyter, Syzygy, etc. [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
+4. **September 21** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) continued. [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
 5. **September 23** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 6. **September 28** - [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 7. **September 30** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
