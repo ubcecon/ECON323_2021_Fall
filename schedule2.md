@@ -28,7 +28,6 @@ This is a tentative schedule and will be updated as the course progresses.
 24. **November 30** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 25. **December 2** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
 26. **December 7** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
--->
 
 ## Problem Sets
 1. Due **September 17th** - [Problem Set 1](/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
