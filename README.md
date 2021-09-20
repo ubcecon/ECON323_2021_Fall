@@ -19,9 +19,9 @@ If possible, please bring a laptop to class to interactively discuss the materia
 - Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
 - Office Hours: Mondays 1pm - 2pm, Iona #013
 - TA for Section 2: Kuo Yan [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
-- Office Hours: TBD
+- Office Hours: Fridays 1pm - 2pm, Iona #335
 - TA for Section 3: Josh Catalano [jcatal@student.ubc.ca](mailto:jcatal@student.ubc.ca)
-- Office Hours: Mondays 10am - 11am
+- Office Hours: Mondays 10am - 11am, Zoom link available through Canvas
   
 Prof. Paul Schrimpf will resume teaching Section 3 later this semester.
 
