@@ -16,14 +16,17 @@ You will not need to install any software on your local computer.  Instead:
 If possible, please bring a laptop to class to interactively discuss the material.
 
 ## Instructor and Teaching Assistant
+Section 2
 - Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
 - Office Hours: Mondays 1pm - 2pm, Iona #013
-- TA for Section 2: Kuo Yan [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
+- TA: Kuo Yan [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
 - Office Hours: Fridays 1pm - 2pm, Iona #335
-- TA for Section 3: Josh Catalano [jcatal@student.ubc.ca](mailto:jcatal@student.ubc.ca)
-- Office Hours: Mondays 10am - 11am, Zoom link available through Canvas
   
-Prof. Paul Schrimpf will resume teaching Section 3 later this semester.
+Section 3
+- Paul Schrimpf [schrimpf@mail.ubc.ca](mailto:schrimpf@mail.ubc.ca)
+- Office Hours: TBA
+- TA: Josh Catalano [jcatal@student.ubc.ca](mailto:jcatal@student.ubc.ca)
+- Office Hours: Mondays 10am - 11am, Zoom link available through Canvas
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
@@ -40,9 +43,6 @@ The [final project](final_project.md) is open ended. See [previous projects](htt
 
 ## Lecture and Problem Set Schedule
 - [Schedule for Section 2 (Peifan Wu)](schedule2.md)
-- Section 3 will follow the schedule of Section 2 until Paul returns. 
-<!--
 - [Schedule for Section 3 (Paul Schrimpf)](schedule3.md)
--->
 
 All problem sets are to be sent as clean, *executed* `.ipynb` notebooks on Canvas.

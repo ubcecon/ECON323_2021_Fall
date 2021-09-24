@@ -13,11 +13,7 @@ This is a course introducing the computational and data science tools used in mo
 We will apply a programming language (Python) to analyzing these sorts of
 data and making numerical calculations/simulations of models in economics.
 
-Classes for Section 2 will be held in-person in [BUCH
-D317](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=BUCH&roomID=D317)
-on Tuesdays and Thursdays 3:30pm-5:00pm.
-Starting from Sept 21st, classes will be held in [HEBB 114](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=HEBB&roomID=114)
-Classes for Section 3 will be held through Zoom concurrent with Section 2 until Paul's return.
+Classes for Section 2 will be held in-person in [HEBB 114](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=HEBB&roomID=114) on Tuesdays and Thursdays 3:30pm-5:00pm. Classes for Section 3 will be held in-person in [EOS 135](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=EOS&roomID=135) on Mondays and Wednesdays 1:30pm-2:50pm.
 
 For students who cannot
 attend in person, class recordings will also be available on Zoom, through
