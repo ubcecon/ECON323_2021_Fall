@@ -34,7 +34,7 @@ This is a tentative schedule and will be updated as the course progresses.
 
 1. Due **September 17th** - [Problem Set 1](/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
 2. Due **September 26th** - [Problem Set 2](/problem_sets/problem_set_2.ipynb)
-3. Due **October 2nd** - [Problem Set 3](/problem_sets/problem_set_3.ipynb)
+3. Due **October 3rd** - [Problem Set 3](/problem_sets/problem_set_3.ipynb)
 <!-- 4. Due **October 8th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6  -->
 <!-- 5. Due **October 22nd** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)  -->
 <!-- 6. Due **October 29th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) - Only questions 1-7 and 9-10. -->
