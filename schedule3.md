@@ -6,7 +6,7 @@ This will be updated throughout the course.
 3. **September 15** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
 4. **September 20** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
 5. **September 22** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
-6. **September 27** - [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+6. **September 27** - Review PS2, [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html)
 7. **September 29** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **October 4** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9. **October 6** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
@@ -32,7 +32,8 @@ This will be updated throughout the course.
 **Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets), not the ones from quantecon.org! Do not do the quantecon.org problem sets that appear in lecture-datascience.notebooks/problem_sets!.
 
 1. Due **September 15** - [Problem Set 1](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_1.ipynb)
-<!-- 2. Due **September 23rd** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html) -->
+2. Due **September 26** - [Problem Set 2](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_2.ipynb)
+3. Due **October 3** - [Problem Set 3](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_3.ipynb)
 <!-- 3. Due **October 1st** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html)  -->
 <!-- 4. Due **October 8th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6  -->
 <!-- 5. Due **October 22nd** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)  -->
