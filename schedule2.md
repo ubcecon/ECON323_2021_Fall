@@ -8,7 +8,7 @@ This is a tentative schedule and will be updated as the course progresses.
 4. **September 21st** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) continued. Net present value stuff (preparation for PS 2).
 5. **September 23rd** - PS1 review, [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html), [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 6. **September 28th** - Preparation for PS 3 (C-D function, returns to scale, etc), [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
-7. **September 30th** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+7. **September 30th** - National Day for Truth and Reconciliation
 8. **October 5** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9.  **October 7** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 10. **October 12** - Thanksgiving
