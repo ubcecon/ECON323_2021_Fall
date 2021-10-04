@@ -26,7 +26,7 @@ Section 3
 - Paul Schrimpf [schrimpf@mail.ubc.ca](mailto:schrimpf@mail.ubc.ca)
 - Office Hours: TBA
 - TA: Josh Catalano [jcatal@student.ubc.ca](mailto:jcatal@student.ubc.ca)
-- Office Hours: Mondays 10am - 11am, Zoom link available through Canvas
+- Office Hours: Wednesdays 10am - 11am, Zoom link available through Canvas
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
