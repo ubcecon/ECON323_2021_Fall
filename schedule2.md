@@ -12,8 +12,8 @@ This is a tentative schedule and will be updated as the course progresses.
 8. **October 5** - PS2 review, Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 9.  **October 7** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 10. **October 12** - PS3 review, [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html)
-11. **October 14** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
-12. **October 19** - Quickly through [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) and  [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
+11. **October 14** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html) and maybe [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html)
+12. **October 19** - [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
 13. **October 21** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html)
 14. **October 26** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 15. **October 28** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html)
@@ -35,7 +35,7 @@ This is a tentative schedule and will be updated as the course progresses.
 1. Due **September 17th** - [Problem Set 1](/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
 2. Due **September 26th** - [Problem Set 2](/problem_sets/problem_set_2.ipynb)
 3. Due **October 3rd** - [Problem Set 3](/problem_sets/problem_set_3.ipynb)
-4. Due **October 15th**- [Problem Set 4](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_4.ipynb)
+4. Due **October 15th**- [Problem Set 4](/problem_sets/problem_set_4.ipynb)
 <!-- 5. Due **October 22nd** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)  -->
 <!-- 6. Due **October 29th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) - Only questions 1-7 and 9-10. -->
 <!-- 7. Due **November 5th** - [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)  -->
