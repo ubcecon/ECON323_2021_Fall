@@ -12,7 +12,7 @@ This is a tentative schedule and will be updated as the course progresses.
 8. **October 5** - PS2 review, Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 9.  **October 7** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 10. **October 12** - PS3 review, [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html)
-11. **October 14** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html) and maybe [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html)
+11. **October 14** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html)
 12. **October 19** - [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
 13. **October 21** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html)
 14. **October 26** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
