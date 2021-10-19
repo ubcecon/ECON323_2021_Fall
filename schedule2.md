@@ -36,7 +36,7 @@ This is a tentative schedule and will be updated as the course progresses.
 2. Due **September 26th** - [Problem Set 2](/problem_sets/problem_set_2.ipynb)
 3. Due **October 3rd** - [Problem Set 3](/problem_sets/problem_set_3.ipynb)
 4. Due **October 15th**- [Problem Set 4](/problem_sets/problem_set_4.ipynb)
-<!-- 5. Due **October 22nd** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)  -->
+5. Due **October 24th** - [Problem Set 5](/problem_sets/problem_set_5.ipynb)
 <!-- 6. Due **October 29th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) - Only questions 1-7 and 9-10. -->
 <!-- 7. Due **November 5th** - [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)  -->
 <!-- 7. Due **November 19th** [Problem Set 8](https://datascience.quantecon.org/problem_sets/problem_set_8.html) or the exercises from [the covid prediction notebook](https://github.com/ubcecon/323-covid/blob/master/notebooks/covid-prediction.ipynb) -\-> -->
