@@ -39,7 +39,7 @@ Major course sections
 
 Grading: Weekly problem sets: 50%; Final projects: 45%; Attendance/Participation: 5%
 
-The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/projects.html)
+The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/theme/projects.html)
 
 ## Lecture and Problem Set Schedule
 - [Schedule for Section 2 (Peifan Wu)](schedule2.md)
