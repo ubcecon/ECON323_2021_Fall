@@ -15,8 +15,8 @@ This will be updated throughout the course.
 12. **October 18** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html)
 13. **October 20** - [Merge](https://datascience.quantecon.org/pandas/merge.html)
 14. **October 25** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
-15. **October 27** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html)
-16. **November 1** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+15. **October 27** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html), [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+16. **November 1** - Finish [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html), [Covid \& Schools](https://github.com/ubcecon/ECON323_2021_Fall/blob/master/extra_notebooks/covid-schools.ipynb)
 17. **November 3** - [Regression](https://datascience.quantecon.org/applications/regression.html)
 18. **November 8** - [Regression](https://datascience.quantecon.org/applications/regression.html)
 18. **November 10** - Midterm Break
