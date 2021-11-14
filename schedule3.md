@@ -18,7 +18,9 @@ This will be updated throughout the course.
 15. **October 27** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html), [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 16. **November 1** - Finish [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html), [Covid \& Schools](https://github.com/ubcecon/ECON323_2021_Fall/blob/master/extra_notebooks/covid-schools.ipynb)
 17. **November 3** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-18. **November 8** - [Regression](https://datascience.quantecon.org/applications/regression.html)
+18. **November 8** -
+    [Regression](https://datascience.quantecon.org/applications/regression.html),
+        [PyTorch](https://github.com/ubcecon/ECON323_2021_Fall/blob/master/extra_notebooks/nn-pytorch.ipynb)
 18. **November 10** - Midterm Break
 19. **November 14** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
 20. **November 16** - [Classification](https://datascience.quantecon.org/applications/classification.html)
@@ -37,5 +39,5 @@ This will be updated throughout the course.
 4. Due **October 15**- [Problem Set 4](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_4.ipynb)
 5. Due **October 22** - [Problem Set 5](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_5.ipynb)
 6. Due **November 3** - [Problem Set 6](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_6.ipynb)
-<!-- 7. Due **November 5th** - [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)  -->
+7. Due **November ** - [Problem Set 7](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_7.ipynb)
 <!-- 7. Due **November 19th** [Problem Set 8](https://datascience.quantecon.org/problem_sets/problem_set_8.html) or the exercises from [the covid prediction notebook](https://github.com/ubcecon/323-covid/blob/master/notebooks/covid-prediction.ipynb) -\-> -->
