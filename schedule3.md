@@ -22,10 +22,10 @@ This will be updated throughout the course.
     [Regression](https://datascience.quantecon.org/applications/regression.html),
         [PyTorch](https://github.com/ubcecon/ECON323_2021_Fall/blob/master/extra_notebooks/nn-pytorch.ipynb)
 18. **November 10** - Midterm Break
-19. **November 14** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
-20. **November 16** - [Classification](https://datascience.quantecon.org/applications/classification.html)
-21. **November 21** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
-22. **November 23** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
+19. **November 14** - [Classification](https://datascience.quantecon.org/applications/classification.html) and [Classification with PyTorch](https://github.com/ubcecon/ECON323_2021_Fall/blob/master/extra_notebooks/mnist-pytorch.ipynb)
+20. **November 17** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
+21. **November 22** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
+22. **November 24** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
 23. **November 29** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 24. **December 1** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
 25. **December 6** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
@@ -39,5 +39,5 @@ This will be updated throughout the course.
 4. Due **October 15**- [Problem Set 4](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_4.ipynb)
 5. Due **October 22** - [Problem Set 5](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_5.ipynb)
 6. Due **November 3** - [Problem Set 6](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_6.ipynb)
-7. Due **November ** - [Problem Set 7](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_7.ipynb)
+7. Due **November 22** - [Problem Set 7](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets/problem_set_7.ipynb)
 <!-- 7. Due **November 19th** [Problem Set 8](https://datascience.quantecon.org/problem_sets/problem_set_8.html) or the exercises from [the covid prediction notebook](https://github.com/ubcecon/323-covid/blob/master/notebooks/covid-prediction.ipynb) -\-> -->
