@@ -23,9 +23,9 @@ This is a tentative schedule and will be updated as the course progresses.
 19. **November 11** - Midterm Break
 20. **November 16** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
 21. **November 18** - [Classification](https://datascience.quantecon.org/applications/classification.html)
-22. **November 23** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
-23. **November 25** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
-24. **November 30** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+22. **November 23** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+23. **November 25** - [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
+24. **November 30** - 
 25. **December 2** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
 26. **December 7** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 
