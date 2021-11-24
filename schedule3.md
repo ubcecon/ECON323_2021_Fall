@@ -24,11 +24,11 @@ This will be updated throughout the course.
 18. **November 10** - Midterm Break
 19. **November 14** - [Classification](https://datascience.quantecon.org/applications/classification.html) and [Classification with PyTorch](https://github.com/ubcecon/ECON323_2021_Fall/blob/master/extra_notebooks/mnist-pytorch.ipynb)
 20. **November 17** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
-21. **November 22** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
-22. **November 24** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
-23. **November 29** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
-24. **December 1** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-25. **December 6** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+21. **November 22** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+22. **November 24** - [Heterogeneous effects](https://datascience.quantecon.org/applications/heterogeneity.html)
+23. **November 29** - [Mapping](https://datascience.quantecon.org/applications/maps.html)
+24. **December 1** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+25. **December 6** - 
 
 ## Problem Sets
 **Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2021_Fall/tree/master/problem_sets), not the ones from quantecon.org! Do not do the quantecon.org problem sets that appear in lecture-datascience.notebooks/problem_sets!.
